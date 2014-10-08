@@ -10,13 +10,13 @@
     <string name="guide_1_title">Einrichtung</string>
     <string name="guide_1_description">Danke, dass Sie sich für die Remote Control Collection entschieden haben.\n\nSie werden nun die erste Verbindung herstellen.</string>
     <string name="guide_2_title">Laden Sie den Server</string>
-    <string name="guide_2_description">Um Befehle auf ihrem PC empfangen zu können, benötigen Sie den Remote Control Server.\n\nDownload des Server unter\nwww.android-remote.com</string>
+    <string name="guide_2_description">Um die App nutzen zu können, müssen Sie den Remote Control Server installieren.\n\nHier gelangen Sie zum Download:\nwww.android-remote.com</string>
     <string name="guide_3_title">Starten Sie den Server</string>
-    <string name="guide_3_description">Installieren und starten Sie den Remote Control Server auf dem PC, den Sie steuern möchten.\n\nBeim ersten Start wird er eine IP Adresse zeigen.</string>
-    <string name="guide_4_title">IP finden</string>
+    <string name="guide_3_description">Installieren und starten Sie den Remote Control Server auf dem PC, den Sie steuern möchten.\n\nNotieren Sie sich die IP-Adresse, die Ihnen angezeigt wird.</string>
+    <string name="guide_4_title">IP-Adresse suchen</string>
     <string name="guide_4_description">Sobald Ihnen die IP Adresse gezeigt wird, fahren Sie mit dem nächsten Schritt fort.\n\nStellen Sie sicher, dass sich Ihre Geräte im selben Netzwerk befinden.</string>
     <string name="guide_finish_title">Server hinzufügen</string>
-    <string name="guide_finish_description">\n\nTragen Sie die IP Adresse im obigen Feld ein.\n\nKlicken Sie \'Scannen\' um Ihren PC automatisch zu suchen.</string>
+    <string name="guide_finish_description">\n\nTragen Sie die IP Adresse im obigen Feld ein.\n\nKlicken Sie auf \'Scannen\' um Ihren PC automatisch zu suchen.</string>
 
     <string name="dialog_yes">Ja</string>
     <string name="dialog_no">Nein</string>
@@ -33,7 +33,7 @@
     <string name="dialog_rate_text_2">Befehle mit der App gesendet!\n\nBitte bewerten Sie die App damit wir sie verbessern können.</string>
     <string name="dialog_rate_button">Bewerten</string>
 
-    <string name="changelog">Thanks for updating the app. You might need to update the Remote Control Server to use the latest features. Here are the most recent changes:\n\nVersion 2.0.3.0:\n -Automatic server detection\n -Live screen performance improvements\n -Scrolling in live screen via volume keys\n -Fixed keyboard issues\n -Fixed action bar icons\n -Fixed minor bugs</string>
+    <string name="changelog">Danke! Die App wurde erfolgreich aktualisiert. Um alle Features nutzen zu können, müssen Sie eventuell den Server aktualisieren. Dies sind die neusten Änderungen:\n\nVersion 2.0.3.0:\n -Automatische Server-Erkennung\n -Verbesserung des Live-Screen-Features \n -Scrollen über Lautstärketasten im Live-Screen\n -Fehlerbehbung von Tastaturproblemen\n -Actionbar-Icons repariert\n -Einige kleinere Fehler behoben</string>
 
     <string name="connection_success">Verbunden</string>
     <string name="connection_success_description">Die Geräte sind nun verbunden</string>
@@ -49,10 +49,10 @@
 
     <string name="notification_server_found">Server gefunden</string>
     <string name="notification_server_found_short">\u0020ist erreichbar</string>
-    <string name="notification_server_found_long">\u0020ist erreichbar im Netzwerk unter\u0020</string>
+    <string name="notification_server_found_long">\u0020ist im Netzwerk erreichbar unter\u0020</string>
 
     <string name="connection_error">Nicht erreichbar</string>
-    <string name="connection_error_description">Verbindung fehlgeschlagen, es konnte kein Server gefunden werden.</string>
+    <string name="connection_error_description">Verbindung fehlgeschlagen! Es konnte kein Server gefunden werden.</string>
     <string name="connection_error_retry">Zurück</string>
     <string name="connection_error_help">Hilfe</string>
 
@@ -77,7 +77,7 @@
     <string name="menu_switch_screen">Bildschirm wechseln</string>
 
     <string name="license_free">Kostenlos</string>
-    <string name="license_trial">Trial</string>
+    <string name="license_trial">Testversion</string>
     <string name="license_pro">Pro</string>
     <string name="license_upgrade">Upgraded</string>
 
@@ -86,10 +86,10 @@
     <string name="home_recent_connections">Letzte Verbindungen</string>
     <string name="home_app_details">App Details</string>
     <string name="home_version">Version:</string>
-    <string name="home_license">Lizens:</string>
+    <string name="home_license">Lizenz:</string>
     <string name="home_ip">IP Adresse:</string>
     <string name="home_connected">Verbunden</string>
-    <string name="home_social">Finden Sie uns</string>
+    <string name="home_social">Besuchen Sie uns auf</string>
 
     <string name="server_invalid_title">Speichern fehlgeschlagen</string>
     <string name="server_invalid_description">Die eingetragene IP Adresse oder Name ist nicht gültig.</string>
@@ -113,21 +113,21 @@
     <string name="help_contact_support_contact">Support kontaktieren</string>
     <string name="help_contact_write_mail">E-Mail schreiben</string>
     <string name="help_contact_feedback">Feedback</string>
-    <string name="help_contact_feedback_description">Haben Sie Vorschläge? Bitte lassen Sie uns wissen, was Sie denken! Ihr Feedback ist es, was unsere App stetig besser macht.</string>
+    <string name="help_contact_feedback_description">Haben Sie Vorschläge? Lassen Sie es uns wissen! Nur so können wir die App weiter verbessern!</string>
     <string name="help_contact_feedback_contact">Feedback senden</string>
 
     <string name="help_setup">Einrichtung</string>
-    <string name="help_setup_descriptions">Nicht sicher, wie Sie eine Verbindung herstellen sollen? Folgen Sie dieser Anleitung.</string>
+    <string name="help_setup_descriptions">So einfach stellen Sie eine Verbindung her.</string>
     <string name="help_troubleshooting">Problembehandlung</string>
     <string name="help_troubleshooting_descriptions">Die Einrichtung funktioniert nicht? Hier sind mögliche Ursachen aufgelistet.</string>
-    <string name="help_mac">Server für Mac</string>
-    <string name="help_mac_descriptions">Wir bieten zur Zeit noch keinen Server für Mac an. Wir arbeiten daran.</string>
+    <string name="help_mac">Server für OSX</string>
+    <string name="help_mac_descriptions">Wir bieten zur Zeit noch keinen Server für OSX an. Wir arbeiten daran.</string>
     <string name="help_bt">BlueTooth Verbindung</string>
     <string name="help_bt_descriptions">Eine Verbindung ist nur über ein WLAN Netzwerk möglich, BlueTooth wird nicht unterstützt.</string>
     <string name="help_faq">FAQ</string>
-    <string name="help_faq_descriptions">Eine Liste mit häufig gestellten Fragen finden Sie hier.</string>
+    <string name="help_faq_descriptions">Hier finden Sie die am häufig gestelltesten Fragen.</string>
 
-    <string name="upgrade_code">Freischalt Code</string>
+    <string name="upgrade_code">Freischalt-Code</string>
     <string name="upgrade_code_description">Sie können Funktionen auch mit einem Code freischalten. Einen kostenlosen Code zum testen erhalten Sie auf unserer Facebook Seite.</string>
     <string name="upgrade_code_button">Code bekommen</string>
 
@@ -138,13 +138,13 @@
     <string name="upgrade_activate_description">Haben Sie einen Code erhalten? Tragen Sie ihn hier ein:</string>
     <string name="upgrade_activate_check">Aktivieren</string>
     <string name="upgrade_activate_reset">Löschen</string>
-    <string name="upgrade_activate_isactive">Code ist aktiv</string>
+    <string name="upgrade_activate_isactive">Code ist aktiviert</string>
 
     <string name="upgrade_thanks">Danke!</string>
     <string name="upgrade_thanks_description">Vielen Dank für den Erwerb der Pro Version, wir freuen uns über Ihre Unterstützung. Genießen Sie die App mit all ihren Funktionen!</string>
 
     <string name="upgrade_ads">Werbung entfernen</string>
-    <string name="upgrade_ads_description">Sie mögen keine Werbung? Schalten Sie eines der unten gelisteten Upgrades frei um sie zu entfernen.</string>
+    <string name="upgrade_ads_description">Sie mögen keine Werbung? Schalten Sie eines der unten gelisteten Upgrades frei, um sie zu entfernen.</string>
 
     <string name="upgrade_live">Bildschirm</string>
     <string name="upgrade_live_description">Sehen Sie den Bildschirm Ihres PCs in Echtzeit und steuern Sie die Maus. Mehrere Bildschirme und Full HD Auflösung werden unterstützt.</string>
@@ -153,7 +153,7 @@
     <string name="upgrade_media_description">Steuern Sie einen Media Player Ihrer Wahl! Unterstützt werden Windows Media Player, iTunes, VLC, Spotify, Songbird und weitere.</string>
 
     <string name="upgrade_slideshow">Präsentationen</string>
-    <string name="upgrade_slideshow_description">Steuern Sie Ihre Präsentationen direkt vom Smartphone! Der Bildschirm wird in Echtzeit auf Ihr Smartphone übertragen. Das Funktioniert mit Powerpoint, Impress, Adobe Reader, Windows Media Center und weiteren.</string>
+    <string name="upgrade_slideshow_description">Steuern Sie Ihre Präsentationen direkt vom Smartphone! Der Bildschirm wird in Echtzeit auf Ihr Smartphone übertragen. Dies Funktioniert mit Powerpoint, Impress, Adobe Reader, Windows Media Center und weiteren Programmen.</string>
 
     <string name="upgrade_pro">Pro Version</string>
     <string name="upgrade_pro_description">Schaltet alle Upgrades frei. Alle kommenden Funktionen sind ebenfalls kostenlos.</string>
@@ -198,7 +198,7 @@
     <string name="f_upgrade_trial_used">Sie haben bereits einen Trial Code verwendet. Sie können nur einen Code pro Gerät aktivieren.</string>
     <string name="f_upgrade_now_active">Code wurde aktiviert, Sie können nun alle Steuerungen nutzen.</string>
     <string name="f_upgrade_result_invalid">Antwort vom Server entspricht nicht der Anfrage.</string>
-    <string name="f_upgrade_payload_failed">Fehler beim Kauf, die Identitätsverifizierung schlug fehl.</string>
+    <string name="f_upgrade_payload_failed">Fehler beim Kauf: die Identitätsverifizierung schlug fehl.</string>
     <string name="f_upgrade_thanks">Danke für Ihren Kauf, Sie können nun Ihr Upgrade nutzen.</string>
     <string name="f_upgrade_no_billing">In-App Käufe werden auf Ihrem Gerät nicht unterstützt.</string>
 
@@ -229,7 +229,7 @@
     <string name="settings_vibrate">Haptisches Feedback</string>
     <string name="settings_vibrate_sum">Vibration bei Übertragung</string>
     <string name="settings_low_traffic">Geringe Datenrate</string>
-    <string name="settings_low_traffic_sum">Verringert Netzwerk Verkehr</string>
+    <string name="settings_low_traffic_sum">Verringert Netzwerkverkehr</string>
     <string name="settings_autoconnect">Automatisch verbinden</string>
     <string name="settings_autoconnect_sum">Stellt beim Start eine Verbindung her</string>
     <string name="settings_dark">Dunkles Design</string>
@@ -240,9 +240,9 @@
     <string name="settings_service_search_unknown_sum">Sucht nach unbekannten Servern</string>
 
     <string name="detail_commandcount">Zählt die Anzahl an Befehlen, die an den Server übertragen wurden.</string>
-    <string name="detail_frequently_used">Zeigt die Steuerungen, die häufig verwendet werden. Klicken Sie um eine Steuerung zu starten.</string>
-    <string name="detail_recent_connections">Listet die Server auf, die zuletzt eine Verbindung hergestellt haben. Klicken Sie zum verbinden.</string>
-    <string name="detail_nowifi">Sie sind zur Zeit mit keinen WLAN Netzwerk verbunden. Sie werden nicht in der Lage sein, eine Verbindung mit Ihrem PC herzustellen.</string>
+    <string name="detail_frequently_used">Zeigt die Steuerungen, die häufig verwendet werden. Klicken Sie auf das jeweilige Symbol, um eine Steuerung zu starten.</string>
+    <string name="detail_recent_connections">Listet die Server auf, die zuletzt eine Verbindung hergestellt haben. Wählen Sie einen Server aus, um die Verbindung herzustellen.</string>
+    <string name="detail_nowifi">Sie sind zur Zeit mit keinen WLAN Netzwerk verbunden. Um die App zu nutzen, müssen Sie sich mit einem Netzwerk verbinden.</string>
 
 
 </resources>
